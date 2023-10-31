@@ -1,6 +1,6 @@
 # move-folder-cli
 
-> 命令行复制或删除文件夹
+> 命令行复制或移动文件夹
 
 
 ## Install
