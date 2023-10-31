@@ -14,7 +14,7 @@ yarn add move-folder-cli -g
 ## Usage
 
 ```
-move-folder --h
+move-folder -h
 
   Usage
     $ move-folder <source-path> <destination-path>
