@@ -1,6 +1,6 @@
 {
   "name": "move-folder-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,11 +20,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sindresorhus/move-file-cli.git"
+    "url": "https://github.com/RyanLYC/move-folder-cli.git"
   },
-  "homepage": "https://github.com/sindresorhus/move-file-cli",
-  "bugs": "https://github.com/sindresorhus/move-file-cli/issues",
-  "docs": "https://github.com/sindresorhus/move-file-cli#readme",
+  "homepage": "https://github.com/RyanLYC/move-folder-cli",
+  "bugs": "https://github.com/RyanLYC/move-folder-cli/issues",
+  "docs": "https://github.com/RyanLYC/move-folder-cli/blob/main/README.md",
   "author": "lyc",
   "license": "ISC",
   "dependencies": {
