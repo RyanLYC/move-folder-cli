@@ -19,19 +19,17 @@ move-folder -h
   Usage
     $ move-folder <source-path> <destination-path>
 
-  Options
-    -d 删除源文件夹
-    -n 不复制这些文件名的文件可带扩展名可不带
-    | Flag   | Description                             | Value       |
-    | ------ | --------------------------------------- | ----------- |
-    | `-d`   | 删除源文件夹.                           | false       |
-    | `-n`   | 不复制这些文件名的文件可带扩展名可不带. | app,test.ts |
-    | `-ext` | 不复制这些扩展名的文件.                 | .js,.ts     |
-    | `-cd`  | 更改复制目录.                           | ../         |
-
-
   Example
     // 复制 执行目录的上级目录的 build文件夹 到 dist文件夹,
     // 过滤文件名test,app,888.txt,过滤扩展名.js,.ts 文件
     move-folder build dist -n test,app,888.txt  -ext .js,.ts  -cd ..\ 
 ```
+
+## Options
+  | Flag | Description                             | Value       |
+  | ---- | --------------------------------------- | ----------- |
+  | --d  | 是否开启调试模式.                       | false       |
+  | -d   | 删除源文件夹.                           | false       |
+  | -n   | 不复制这些文件名的文件可带扩展名可不带. | app,test.ts |
+  | -ext | 不复制这些扩展名的文件.                 | .js,.ts     |
+  | -cd  | 更改复制目录.                           | ../         |
