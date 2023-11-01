@@ -1,6 +1,6 @@
 {
   "name": "move-folder-cli",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,10 @@
     "lib"
   ],
   "keywords": [
-    "move-folder",
-    "copy-folder",
-    "move-folder-cli",
-    "copy-folder-cli"
+    "move folder",
+    "copy folder",
+    "move folder cli",
+    "copy folder cli"
   ],
   "repository": {
     "type": "git",
