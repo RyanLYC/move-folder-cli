@@ -1,6 +1,6 @@
 # move-folder-cli
 
-> 命令行复制或移动文件夹
+Copy or Move a folder on the command-line
 
 
 ## Install
